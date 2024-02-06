@@ -1,0 +1,37 @@
+/*
+File: style.css
+Author: Varas-Tóth Gergő
+Copyright: 2024, Varas-Tóth Gergő
+Group: Szoft 1/I/N
+Date: 2024-02-06
+Github: xd
+Licenc: GNU GPL
+*/
+.container{ 
+    margin: 5%;
+}
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  .table th, .table td{
+    border: 1px solid black;
+  
+  }
+  .table_001 {
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+ .table_001 tr td {
+    border: 1px solid black;
+    padding: 10px;
+ }
+ .table {
+    border: 1px solid white;
+  }
+  .table th, .table td{
+    border: 1px solid white;
+    background-color: navy;
+    color: white;
+  }
