@@ -35,3 +35,13 @@ Licenc: GNU GPL
     background-color: navy;
     color: white;
   }
+  .table {
+    border-collapse: separate;
+    border-spacing: 5px;
+  }
+  .table th, .table td{
+    border: 1px solid black;
+    background-color: nav;
+    color: white;
+    border-radius: 10px;
+  }
