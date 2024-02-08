@@ -7,6 +7,10 @@ Date: 2024-02-06
 Github: xd
 Licenc: GNU GPL
 */
+body{
+  background-image: -webkit-linear-gradient(bottom,blue, red,green,violet ,black ,white ,orange,crimson,navy );
+}
+
 .container{ 
     margin: 5%;
 }
